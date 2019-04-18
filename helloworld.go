@@ -1,5 +1,5 @@
 package main
 import "fmt"
 func main() {
-    fmt.Println("Testing CI/CD from github and Hi Mike")
+    fmt.Println("Testing CI/CD from github and Hi Irving")
 }
